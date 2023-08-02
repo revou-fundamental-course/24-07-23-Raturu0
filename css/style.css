@@ -451,13 +451,11 @@
     margin: auto;
     display: flex;
     flex-wrap: wrap;
-    background-color: yellow;
   }
   main div.container section.ourPackages div.pembungkusPackages div.pembungkusCard {
     display: flex;
     justify-content: center;
     width: 25rem;
-    background-color: orange;
     margin: auto;
   }
   main div.container section.ourPackages div.pembungkusPackages div.pembungkusCard div.pembungkusHover {
